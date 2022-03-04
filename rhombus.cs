@@ -1,4 +1,3 @@
-﻿
 string str = "x";
 
 int n = 9,
